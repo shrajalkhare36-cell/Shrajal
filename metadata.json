@@ -1,0 +1,5 @@
+{
+  "name": "Sky Wing",
+  "description": "A classic arcade-style bird flight game with scoring and high scores.",
+  "requestFramePermissions": []
+}
